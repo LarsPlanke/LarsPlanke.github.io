@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 This is another text 
 
+=======
+This is another text 
+
+>>>>>>> 266d479 (new commit 1)
 woopppie
