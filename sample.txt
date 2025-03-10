@@ -1,13 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 This is another text 
-
-=======
-This is another text 
-
->>>>>>> 266d479 (new commit 1)
-=======
-This is another text 
-
->>>>>>> da634151a1b19b7a848bfadbc37311d39d7b7ba3
 woopppie
