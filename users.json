@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 [
     {
         "id":1,
@@ -16,27 +14,4 @@
         "name":"Berg",
         "email":"Berg@normann.no"
     }
-=======
-=======
->>>>>>> da634151a1b19b7a848bfadbc37311d39d7b7ba3
-[
-    {
-        "id":1,
-        "name":"Ola",
-        "email":"ola@normann.no"
-    },
-    {
-        "id":2,
-        "name":"Fred",
-        "email":"fred@normann.no"
-    },
-    {
-        "id":3,
-        "name":"Berg",
-        "email":"Berg@normann.no"
-    }
-<<<<<<< HEAD
->>>>>>> 266d479 (new commit 1)
-=======
->>>>>>> da634151a1b19b7a848bfadbc37311d39d7b7ba3
 ]
