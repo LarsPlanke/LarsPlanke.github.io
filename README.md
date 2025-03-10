@@ -1,2 +1,0 @@
-# larsplanke.github.io
-PracticeWebDevAgain
